@@ -1,5 +1,5 @@
-import heroBg from "../../../../src/assets/images/hero_bg.png";
-import PrimaryButton from "../../ui/button/PrimaryButton";
+import heroBg from "../../.././src/assets/images/hero_bg.png";
+import PrimaryButton from "../ui/button/PrimaryButton";
 
 export default function Hero() {
   return (
